@@ -1,0 +1,18 @@
+,
+    "liveSassCompile.settings.formats": [
+        // This is Default.
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "~/../css/"
+        },
+        //Or you can compress your css
+        {
+            "format": "compressed",
+            "extensionName": ".min.css",
+            "savePath": "~/../css/"
+        }
+    ],
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+}
